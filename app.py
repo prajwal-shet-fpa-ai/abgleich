@@ -32,7 +32,7 @@ st.html("""
   --rule: #C9D3CC; --ledger: #2E6B4F; --stamp-red: #B3261E; --amber: #9A5B13;
 }
 [data-testid="stDecoration"] { display: none; }
-.block-container { padding-top: 2.2rem; }
+.block-container { padding-top: 5rem; }
 
 .ab-brand { display: flex; align-items: baseline; gap: .6rem; margin-bottom: 1.6rem; }
 .ab-brand b { font-size: 1.15rem; font-weight: 800; letter-spacing: -.01em; color: var(--ink); }
