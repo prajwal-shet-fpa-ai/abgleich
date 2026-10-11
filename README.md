@@ -1,7 +1,7 @@
 # Abgleich: is this electronic invoice safe to book and safe to pay?
 
-**Live demo:** coming soon
-
+  **Live demo:** https://abgleich-invoice-check.streamlit.app
+  
 Abgleich checks German ZUGFeRD invoices. A ZUGFeRD invoice is a PDF with a hidden XML file inside. People read the PDF, while accounting and banking software read the XML. Abgleich reads both layers, compares them field by field and tells you whether the invoice is safe to book and safe to pay. If something is wrong, it writes the email to the supplier in German.
 
 ## Why this matters
