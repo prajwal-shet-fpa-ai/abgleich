@@ -1,0 +1,15 @@
+   [theme]
+   base = "light"
+   primaryColor = "#2E6B4F"
+   backgroundColor = "#EEF2EC"
+   secondaryBackgroundColor = "#E2E9E3"
+   textColor = "#1D2B36"
+   borderColor = "#C9D3CC"
+   codeBackgroundColor = "#FBFCFA"
+   codeTextColor = "#1D2B36"
+   font = "Archivo:https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800&display=swap"
+   codeFont = "IBM Plex Mono:https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&display=swap"
+   baseRadius = "6px"
+
+   [client]
+   toolbarMode = "minimal"
